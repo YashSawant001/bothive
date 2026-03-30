@@ -13,8 +13,7 @@ if type(num1) == int and type(num2) == int:
     print(f"The sum of {num1} and {num2} is {num1 + num2}")
     print(f"The product of {num1} and {num2} is {num1 * num2}")
     print(f"The division of {num1} and {num2} is {num1 / num2}")
-else:
-    print("Please enter valid integers for the calculation.")
+
 
 
 
